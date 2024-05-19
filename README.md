@@ -1,6 +1,5 @@
 # man-to-pdf
 
-## Description
 Man-to-pdf is a customizable Python script that converts man pages for shell commands to PDF format.
 
 ## Installation
